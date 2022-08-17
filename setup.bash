@@ -20,3 +20,5 @@ xor ./Submarine.aiff.bin
 xor ./Tink.aiff.bin
 
 afplay ./Glass.aiff
+
+say Completed
